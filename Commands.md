@@ -1,1 +1,0 @@
-sudo xinit /home/ams/Ai-Grader/venv/bin/python3 /home/ams/Ai-Grader/main.py -- :0
